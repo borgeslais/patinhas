@@ -1,0 +1,88 @@
+body {
+    font-family: Jost, sans-serif;
+}
+
+.navbar {
+    background-color:rgb(39, 10, 107);
+}
+
+p {
+    text-align: justify;
+}
+
+#eventos h3 {
+    color:rgb(39, 10, 107);
+}
+
+.carousel-item {
+    width: 100%;
+}
+
+.carousel img {
+    width: 100%;
+}
+
+
+#cabecalho .nav .nav-link.active{
+    background-color: rgba(128, 125, 160, 0.623);
+    color: #f5f5f5;
+    border-radius: 25px;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: Jost, sans-serif;
+}
+
+.navbar-toggler {
+    background-color: #e41818;
+}
+
+.section-title {
+    font-family: Jost, sans-serif;
+    color: rgb(39, 10, 107);
+}
+
+
+#sobre-o-restaurante, #cardapio {
+    background-color: rgb(200, 202, 223);
+}
+
+.text-colored {
+    color: #fff;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: rgb(39, 10, 107);
+    color: #fff;
+}
+
+.nav-cardapio .nav-link {
+    color:  rgb(39, 10, 107);
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.bi {
+    color: rgb(39, 10, 107);
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
