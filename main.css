@@ -49,6 +49,10 @@ p {
     color: rgb(39, 10, 107);
 }
 
+#sobre-nos span{
+    color:rgb(158, 121, 245);
+}
+
 
 #sobre-o-restaurante, #cardapio {
     background-color: rgb(200, 202, 223);
